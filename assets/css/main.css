@@ -2680,12 +2680,12 @@ input, select, textarea {
 
 /* Main */
 
-	#main {
-		margin-left: 35%;
-		max-width: 54em;
-		padding: 8em 4em 4em 4em;
-		width: calc(100% - 35%);
-	}
+#main {
+	margin-left: 25%;
+	max-width: 70em;
+	padding: 8em 4em 4em 4em;
+	width: calc(100% - 25%);
+}
 
 		#main > section {
 			border-top: solid 2px #efefef;
@@ -3024,12 +3024,12 @@ input, select, textarea {
 
 		/* Main */
 
-			#main {
-				margin-left: 30%;
-				max-width: none;
-				padding: 6em 3em 3em 3em;
-				width: calc(100% - 30%);
-			}
+		#main {
+			margin-left: 30%;
+			max-width: none;
+			padding: 6em 3em 3em 3em;
+			width: calc(100% - 25%);
+		}
 
 	}
 
@@ -3090,7 +3090,7 @@ input, select, textarea {
 			}
 
 				#footer .icons {
-					margin: 100 0 1em 0;
+					margin: 0 0 1em 0;
 				}
 
 				#footer .copyright {
