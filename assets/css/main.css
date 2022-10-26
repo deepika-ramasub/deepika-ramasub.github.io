@@ -2590,7 +2590,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #702b2b;
+		background-color: #ad3939;
 		background-attachment: scroll,								scroll;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-position: top left,							top left;
@@ -2639,7 +2639,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 15em;
+			width: 14em;
 		}
 
 /* Footer */
@@ -3028,7 +3028,7 @@ input, select, textarea {
 			margin-left: 30%;
 			max-width: none;
 			padding: 6em 3em 3em 3em;
-			width: calc(100% - 25%);
+			width: calc(100%);
 		}
 
 	}
