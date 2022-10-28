@@ -2110,10 +2110,10 @@ input, select, textarea {
 	}
 
 		#logo h1 {
-			position: relative;
+			text-align:left;
 			color: #fff;
-			font-weight: 600;
-			font-size: 1em;
+			font-weight: 400;
+			font-size: 0.84em;
 			line-height: 1em;
 		}
 
